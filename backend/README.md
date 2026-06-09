@@ -25,7 +25,9 @@ Flyway will automatically run the migrations in `src/main/resources/db/migration
 
 ## 2. Configuration
 
+
 Edit `src/main/resources/application.properties`:
+
 
 ```properties
 # Update these for your environment:
